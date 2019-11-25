@@ -8,6 +8,7 @@ This repository contains accompanying resources, exercises, datasets, and sample
 <img src="mlsec-cover-oreilly.jpg" width="50%" height="50%">
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hsgurm1/book-resources.git/hg-mlsec)
+
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/hsgurm1/book-resources.git/hg-mlsec
 
