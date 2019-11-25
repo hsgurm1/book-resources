@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hsgurm1/book-resources.git/hg-mlsec)
+
 # Machine Learning and Security: Protecting Systems with Data and Algorithms
 by Clarence Chio and‎ David Freeman (Authors), published by O'Reilly Media
 
@@ -6,6 +8,9 @@ by Clarence Chio and‎ David Freeman (Authors), published by O'Reilly Media
 This repository contains accompanying resources, exercises, datasets, and sample code for the Machine Learning and Security book released in Feb 2018.
 
 <img src="mlsec-cover-oreilly.jpg" width="50%" height="50%">
+
+
+
 
 ## Dependencies
 
